@@ -5,11 +5,12 @@ order: 4
 ---
 
 
-![Interstellar Movie Banner Art](https://film-grab.com/wp-content/uploads/photo-gallery/19%20(434).jpg?bwg=1547219111){: width="1500" height="500" }
+![Interstellar Movie Banner Art](/assets/img/space.jpg){: width="1500" height="500" }
 _Source From the movie Gravity_
 
 
 
-Hello! Welcome to my blog. I am Kazi hossain currently a undergraduate studying Computer Science & Mathematics. If you can't tell by already I am obsessed with space. Within the pages of this blog, I share my musings on a diverse range of topics, including but not limited to, technology, aerospace, physics, mathematics, and more. Additionally, I occasionally delve into literature and lifestyle.
+Hello! Welcome to my blog. I am Kazi Hossain, currently an undergraduate student studying Computer Science & Mathematics. If you can't tell already, I am obsessed with space. Within the pages of this blog, I share my musings on a diverse range of topics, including but not limited to technology, aerospace, physics, engineering, school, mathematics, and more. Additionally, I occasionally delve into literature and lifestyle.
 
 
+Thanks for stopping by!
