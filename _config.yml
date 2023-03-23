@@ -13,41 +13,41 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Kazi Hossain # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Personal Blog on Technology, Lifestyle, and More # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Welcome to Kazi Hossain's personal blog, where you will find a collection of insights, stories, and experiences from his life. Follow along as Kazi shares his thoughts on technology, life-style and more! Subscribe to stay up to date on his latest posts and join the conversation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://blog.iamkazi.xyz/"
 
 github:
-  username: github_username # change to your github username
+  username: kazisean # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: KaziSean_ # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Kazi Sean
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    #- https://twitter.com/KaziSean_ # change to your twitter homepage
+    - https://github.com/kazisean # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: # fill in to your verification string
+google_site_verification: h9unPlnjf006WcSUHEy_Ra2GawD6Ws8vyZs3KnDVeXM # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode:  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -80,7 +80,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://i.pinimg.com/originals/4b/84/b1/4b84b1b5b40033e0a3a0bb2e22b7230d.gif
 
 # boolean type, the global switch for TOC in posts.
 toc: true
