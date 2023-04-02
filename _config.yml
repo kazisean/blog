@@ -23,7 +23,7 @@ title: Kazi Hossain # the main title
 tagline: Personal Blog on Technology, Lifestyle, and More # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Welcome to Kazi Hossain's personal blog, where you will find a collection of insights, stories, and experiences from his life. Follow along as Kazi shares his thoughts on technology, life-style and more! Subscribe to stay up to date on his latest posts and join the conversation.
+  Welcome to Kazi Hossain's personal blog. Follow along as Kazi shares his thoughts on technology, life-style and more! Subscribe to stay up to date on his latest posts and join the conversation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://blog.iamkazi.xyz/"
@@ -51,6 +51,7 @@ google_site_verification: h9unPlnjf006WcSUHEy_Ra2GawD6Ws8vyZs3KnDVeXM # fill in 
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
+
 
 google_analytics:
   id: # fill in your Google Analytics ID
