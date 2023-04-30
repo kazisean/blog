@@ -1,5 +1,5 @@
 ---
-title: Good Articles need to real 
+title: Good Articles need to read
 categories: [Articles]
 tags: [study, learn, blog] 
 ---
