@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kazi</title>
+    <link>https://blog.iamkazi.xyz/</link>
+    <description>Recent content on Kazi</description>
+    <image>
+      <title>Kazi</title>
+      <url>https://blog.iamkazi.xyz/papermod-cover.png</url>
+      <link>https://blog.iamkazi.xyz/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://blog.iamkazi.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/artificial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/artificial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/bookshelf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/bookshelf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://blog.iamkazi.xyz/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.iamkazi.xyz/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
