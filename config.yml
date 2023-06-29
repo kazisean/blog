@@ -78,7 +78,7 @@ params:
     ShowRssButtonInSectionTermList: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["kaziBanner.png"]
 
     profileMode:
         enabled: true
