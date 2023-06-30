@@ -39,8 +39,8 @@ languages:
                   url: about/
                   weight: 5
 
-                - name: Artificial agents click here
-                  url: artificial/
+                - name: Essays
+                  url: essays/
                   weight: 4
 
                 - name: Misc
