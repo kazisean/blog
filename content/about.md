@@ -14,10 +14,10 @@ hideMeta: false
 
 <figure>
    
- <a href="{{ .Destination | safeURL }}" target="_blank">
-<img src="/space.jpg" "  alt="{{ .Text }}"
-{{ with .Title }}title="{{ . }}"{{ end }}/>
-</a>
+   <a href="/space.jpg" target="_blank">
+   <img src="/space.jpg" alt="{{ .Text }}"
+   {{ with .Title }}title="{{ . }}"{{ end }}/>
+   </a>
 <figcaption><p>Source: Gravity 2013
    </p></figcaption>
 </figure>
