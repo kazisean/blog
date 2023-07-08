@@ -26,4 +26,6 @@ disableShare: true
   <li><a href="https://amasad.me/" target="_blank">Amjad Masad</a></li>
   <li><a href="https://sharif.io/" target="_blank">Sharif Shameem</a></li>
   <li><a href="https://substack.com/@alexw" target="_blank">Alexandr Wang</a></li>
+  <li><a href="https://writings.stephenwolfram.com/" target="_blank">Stephen Wolfram</a></li>
+  <li><a href="https://www.lesswrong.com/" target="_blank">Eliezer Yudkowsky</a></li>
 </ul>
