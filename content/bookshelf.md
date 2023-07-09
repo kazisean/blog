@@ -21,7 +21,7 @@ hideMeta: true
 
 
 ## All Readings
-📕 [Atomic Habbit]()
+📗 [Atomic Habbit]()
 <br>
 📕 [Almanack of Naval Ravikant]()
 <br>
@@ -35,13 +35,15 @@ hideMeta: true
 <br>
 📕 [The Art of War]()
 <br>
-📕 [Deep Work]()
+📗 [Deep Work]()
 <br>
 📕 [The Prince]()
 <br>
 📕 [The Stranger]()
 <br>
 📕 [Beyond Good Evil]()
+<br>
+📗 [Klara and the Sun]()
 <br>
 📕 [The Brothers Karamazov]()
 <br>
@@ -79,6 +81,8 @@ hideMeta: true
 <br>
 📕 [The Alchemy of Happiness]()
 <br>
+📗 [Dear Martin]()
+<br>
 📕 [How Judges Think]()
 <br>
 📕 [Feynman Lectures On Gravitation]()
@@ -115,7 +119,122 @@ hideMeta: true
 <br>
 📕 [Animal Farm]()
 <br>
+📕 [Trillion Dollar Coach]()
+<br>
+📕 [Shoe Dog]()
+<br>
+📕 [The Innovator's Dilemma]()
+<br>
+📕 [The Effective Executive]()
+<br>
+📕 [Principles: Life and Work]()
+<br>
+📕 [The Principia]()
+<br>
+📕 [Mythical Man-Month]()
+<br>
+📕 [The Rise and Fall of American Growth]()
+<br>
+📕 [The Meritocracy Trap]()
+<br>
+📕 [Loonshots]()
+<br>
+📕 [Contagious: Why Things Catch On]()
+<br>
+📕 [The Culture Code]()
+<br>
+📕 [The Advantage]()
+<br>
+📕 [Antifragile: Things That Gain from Disorder]()
+<br>
+📕 [The Law]()
+<br>
+📕 [The Starfish and the Spider]()
+<br>
+📕 [Crossing the Chasm]()
+<br>
+📕 [Blitzscaling]()
+<br>
+📕 [Work Rules!]()
+<br>
+📕 [Hug Your Haters]()
+<br>
+📕 [Principles for Dealing with the Changing World Order]()
+<br>
+📕 [Originals: How Non-Conformists Move the World]()
+<br>
+📕 [7 Powers: The Foundations of Business Strategy]()
+<br>
+📕 [100 Plus]()
+<br>
+📕 [Psychopolitics]()
+<br>
+📕 [Capital in the Twenty-First Century]()
+<br>
+📕 [The Hard Thing About Hard Things]()
+<br>
+📕 [Life After Google]()
+<br>
+📕 [Ego Is the Enemy]()
+<br>
+📕 [The Fall]()
+<br>
+📕 [Hateship, Friendship, Courtship, Loveship, Marriage]()
+<br>
+📕 [Solution Selling: Creating Buyers in Difficult Selling Markets]()
+<br>
+📕 [Endurance: Shackleton's Incredible Voyage]()
+<br>
+📕 [The Supermen: The Story of Seymour Cray and the Technical Wizards]()
+<br>
+📕 [Thinking, Fast and Slow]()
+<br>
+📕 [The Constitutional Convention]()
+<br>
+📕 [The Republic]()
+<br>
+📕 [Mind of Napoleon:]()
+<br>
+📕 [Superintelligence: Paths, Dangers, Strategies ]()
+<br>
+📕 [Secrets of Sand Hill Road]()
+<br>
+📕 [Meditations]()
+<br>
+📕 [Man's Search for Meaning]()
+<br>
+📕 [The Trial of Socrates]()
+<br>
+📗 [Zero to One]()
+<br>
+📕 [Probability Theory]()
+<br>
+📕 [Seeking Wisdom]()
+<br>
+📕 [Dream of Reason: A History of Western Philosophy from the Greeks to the Renaissance]()
+<br>
+📕 [Orwell's Revenge: The 1984 Palimpsest ]()
+<br>
+📕 [Portfolios of the Poor]()
+<br>
+📕 [The Muqaddimah]()
+<br>
+📕 [Euclid's Elements]()
+<br>
+📕 [The Confessions]()
+<br>
+📕 [From Galileo to Newton]()
+<br>
+📕 [The Autobiography of Benjamin Franklin]()
+<br>
+📕 [Zen and the Art of Motorcycle Maintenance]()
+<br>
+📕 [Memoirs of My Life]()
+<br>
+📕 [Don't Shoot the Dog!]()
+<br>
+📕 [Biography of the Dollar]()
+<br>
 📕 []()
-
 
 
