@@ -12,6 +12,9 @@ hideMeta: true
 
 ---
 
+coming soon!
+
+<!-- 
 📗 Finished Reading ⏳ Currently Reading 📕 Added to reading List
 
 
@@ -237,4 +240,4 @@ hideMeta: true
 <br>
 📕 []()
 
-
+ -->
