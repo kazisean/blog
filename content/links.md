@@ -13,33 +13,41 @@ disableShare: true
 <!-- <a href="website" target="_blank">Name</a>  </br> -->
 
 ## Reading List
-<a href="https://vitalik.ca/general/2022/06/20/backpack.html" target="_blank">My 40-liter backpack travel guide</a> </br>
+<ul>
+	<li><a href="https://vitalik.ca/general/2022/06/20/backpack.html" target="_blank">My 40-liter backpack travel guide</a></li>
+</ul>
 
 
 ## Machine Learning
-
-<a href="https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ" target="_blank">Karpathy’s Machine Learning Course </a> </br>
-<a href="https://huyenchip.com/ml-interviews-book/" target="_blank">Machine Learning Interview Book </a> </br>
-<a href="https://rentry.co/llm-training" target="_blank">The Novice's LLM Training Guide </a> </br>
+<ul>
+	<li><a href="https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ" target="_blank">Karpathy’s Machine Learning Course </a> </li>
+	<li><a href="https://huyenchip.com/ml-interviews-book/" target="_blank">Machine Learning Interview Book </a> </li>
+	<li><a href="https://rentry.co/llm-training" target="_blank">The Novice's LLM Training Guide </a> </li>
+</ul>
 
 
 ## Internship ~ Jobs
-<a href="https://github.com/SimplifyJobs/Summer2024-Internships" target="_blank">Summer 2024 Tech Internships</a>
-<a href="https://hnhiring.com/" target="_blank">YC Hiring List</a> </br>
-<a href="https://builtin.com/jobs" target="_blank">New York Based job List</a> </br>
-<a href="https://www.teamblind.com/jobs/" target="_blank">Blind's Job List</a> </br>
-<a href="https://www.crunchbase.com/" target="_blank">Crunchbase</a> </br>
-<a href="https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/mobilebasic#" target="_blank">Welcome to The Coding Interview. You Suck</a> </br>
+<ul>
+<li><a href="https://github.com/SimplifyJobs/Summer2024-Internships" target="_blank">Summer 2024 Tech Internships</a></li>
+<li><a href="https://hnhiring.com/" target="_blank">YC Hiring List</a>  </li>
+<li><a href="https://builtin.com/jobs" target="_blank">New York Based job List</a>  </li>
+<li><a href="https://www.teamblind.com/jobs/" target="_blank">Blind's Job List</a> </li>
+<li><a href="https://www.crunchbase.com/" target="_blank">Crunchbase</a>  </li>
+<li><a href="https://docs.google.com/document/d/1eKirumpmwDWTtKCJKn2HuoQ2NavEfR41whmTyaQcio4/mobilebasic#" target="_blank">Welcome to The Coding Interview. You Suck</a> </li>
+</ul>
 
 
 ## Calculus I
-<a href="https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv" target="_blank">The Best Calculus Guide</a> </br>
-<a href="https://tutorial.math.lamar.edu/classes/calci/calci.aspx" target="_blank">Paul's Calculus Notes</a> </br>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv" target="_blank">The Best Calculus Guide</a> </li>
+<li><a href="https://tutorial.math.lamar.edu/classes/calci/calci.aspx" target="_blank">Paul's Calculus Notes</a> </li>
+</ul>
 
 ## Data structure
-<a href="https://youtu.be/0IAPZzGSbME?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr" target="_blank">Data Structure With Abdul Bari</a>  </br> 
-<a hred="https://neetcode.io/practice" target="_blank">NeedCode</a> </br>
-
+<ul>
+<li><a href="https://youtu.be/0IAPZzGSbME?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr" target="_blank">Data Structure With Abdul Bari</a> </li>
+<li><a hred="https://neetcode.io/practice" target="_blank">NeedCode</a> </li>
+</ul>
 
 
 ## Cool People
