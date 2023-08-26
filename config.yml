@@ -17,6 +17,8 @@ minify:
     # minifyOutput: true
 
 
+
+
 languages:
     en:
         languageName: "English"
@@ -64,6 +66,9 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Kazi Hossain personal blog on Technology, Lifestyle, and More"
     author: Kazi Hossain
+    keywords: [Blog, Kazi Hossain Blog, Blog About Technology, Personal Blog]
+    DateFormat: "January 2, 2006"
+    disableThemeToggle: false
 
 
     defaultTheme: auto
@@ -72,6 +77,7 @@ params:
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
+    disableScrollToTop: false
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
@@ -79,6 +85,8 @@ params:
     ShowToc: true
     # comments: false
     images: ["kaziBanner.png"]
+    hidemeta: false
+    hideSummary: false
 
     profileMode:
         enabled: true
@@ -92,6 +100,7 @@ params:
               url: archives
             - name: Topics
               url: tags
+
 
 
 
@@ -137,10 +146,10 @@ params:
     apple_touch_icon: "/favicon/apple-touch-icon.png"
     # safari_pinned_tab: "/favicon/safari-pinned-tab.svg"
 
-    # cover:
-    #     hidden: true # hide everywhere but not in structured data
-    #     hiddenInList: true # hide on list pages and home
-    #     hiddenInSingle: true # hide on single page
+    cover:
+         hidden: true # hide everywhere but not in structured data
+         hiddenInList: true # hide on list pages and home
+         hiddenInSingle: true # hide on single page
 
 
     fuseOpts:
@@ -191,6 +200,8 @@ services:
 sitemap:
 changefreq: daily
 priority: 0.8
+
+
 
             
 outputs:

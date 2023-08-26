@@ -9,8 +9,17 @@ ShowReadingTime: false
 disableShare: true
 
 ---
+## Reading List
++ [My 40-liter backpack travel guide](https://vitalik.ca/general/2022/06/20/backpack.html) <br>
 
-## People
+
+
+## Learning
++ [Karpathy’s Machine Learning Course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) <br>
++ [Machine Learning Interview Book](https://huyenchip.com/ml-interviews-book/) <br>
++ [The Novice's LLM Training Guide](https://rentry.co/llm-training) <br>
+
+## Cool People
 
 <ul>
   <li><a href="http://www.paulgraham.com/" target="_blank">Paul Graham</a></li>
