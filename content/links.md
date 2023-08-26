@@ -46,7 +46,7 @@ disableShare: true
 ## Data structure
 <ul>
 <li><a href="https://youtu.be/0IAPZzGSbME?list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr" target="_blank">Data Structure With Abdul Bari</a> </li>
-<li><a hred="https://neetcode.io/practice" target="_blank">NeedCode</a> </li>
+<li><a hred="https://neetcode.io/practice" target="_blank">NeetCode</a> </li>
 </ul>
 
 
